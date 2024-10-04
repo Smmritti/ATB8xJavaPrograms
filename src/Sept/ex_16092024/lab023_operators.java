@@ -21,6 +21,10 @@ public class lab023_operators {
         // Logical operator
         // && - AND , || - OR , ! - NOT
 
+        // new operator
+
+        //instance of operator
+
 
 
         // 1.assignment operator -> the value given on the right-hand side of the operator is assigned to the variable on the left.
